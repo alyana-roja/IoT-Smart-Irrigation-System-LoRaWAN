@@ -1,3 +1,25 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled header files
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
 # Arduino build files
 *.hex
 *.elf
