@@ -36,3 +36,9 @@ It reduces water usage, automates irrigation, and enables long-range, low-power 
 
 ## 📝 License
 This project is licensed under the MIT License.
+
+##Dashboard
+
+
+
+
